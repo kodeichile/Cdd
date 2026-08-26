@@ -363,7 +363,7 @@ export function AgendaForm() {
   const [slotsStatus, setSlotsStatus] = useState<"idle" | "loading" | "ready" | "error">("idle");
   const [selectedSlot, setSelectedSlot] = useState<AvailableSlot | null>(null);
   const [patient, setPatient] = useState<PatientForm>(initialPatient);
-  const [errors, setErrors] = useState<Record<string, string>>({});
+  const [errors, setErrors] = useState<Partial<Record<keyof PatientForm, string>>>({});
   const [submitting, setSubmitting] = useState(false);
   const [booking, setBooking] = useState<BookingResult | null>(null);
   const [deliveryMode, setDeliveryMode] = useState<"endpoint" | "email_app" | null>(null);
@@ -413,7 +413,7 @@ export function AgendaForm() {
 
     if (step === 3) {
       const validation = validatePatientPayload(patient);
-      setErrors(validation.errors);
+      setErrors(validation.errors as Partial<Record<keyof PatientForm, string>>);
       if (!validation.ok) {
         setMessage("Revisa los campos marcados antes de continuar.");
         return;
@@ -439,7 +439,7 @@ export function AgendaForm() {
     }
 
     const validation = validatePatientPayload(patient);
-    setErrors(validation.errors);
+    setErrors(validation.errors as Partial<Record<keyof PatientForm, string>>);
 
     if (!validation.ok) {
       setStep(3);
