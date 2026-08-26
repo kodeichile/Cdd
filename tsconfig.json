@@ -13,34 +13,29 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "incremental": true,
-    "plugins": [
-      {
-        "name": "next"
-      }
-    ],
+    "plugins": [{ "name": "next" }],
     "paths": {
       "@/*": ["./*"]
     }
   },
   "include": [
     "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    ".next/types/**/*.ts",
-    ".next/dev/types/**/*.ts",
-    "**/*.mts"
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "data/**/*.json",
+    ".next/types/**/*.ts"
   ],
   "exclude": [
-  "node_modules",
-  "vite.config.ts",
-  "build",
-  "worker",
-  ".openai",
-  ".wrangler",
-  "dist",
-  "publicar",
-  "examples",
-  "work",
-  "tests"
-]
+    "node_modules",
+    "build",
+    "worker",
+    ".openai",
+    ".wrangler",
+    "dist",
+    "examples",
+    "work",
+    "tests",
+    "publicar",
+    "vite.config.ts"
+  ]
 }
