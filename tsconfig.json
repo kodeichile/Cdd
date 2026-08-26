@@ -30,5 +30,17 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts"
   ],
-  "exclude": ["node_modules"]
+  "exclude": [
+  "node_modules",
+  "vite.config.ts",
+  "build",
+  "worker",
+  ".openai",
+  ".wrangler",
+  "dist",
+  "publicar",
+  "examples",
+  "work",
+  "tests"
+]
 }
