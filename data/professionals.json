@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dra. Claudia Zapata",
+    "specialty": "Ortodoncista",
+    "image": "/dra-claudia-zapata.jpg",
+    "registration": "Registro sanitario N. 12458",
+    "experience": "12 anos de experiencia",
+    "education": "Cirujano dentista, especializacion en ortodoncia y ortopedia dentomaxilar.",
+    "bio": "Acompana tratamientos de alineacion dental con enfoque claro, cercano y planificado."
+  },
+  {
+    "name": "Dra. Marialexis",
+    "specialty": "Implantologo",
+    "image": "/dra-marialexis.jpg",
+    "registration": "Registro sanitario N. 13802",
+    "experience": "10 anos de experiencia",
+    "education": "Cirujano dentista, diplomado en implantologia oral.",
+    "bio": "Trabaja rehabilitaciones con implantes buscando funcion, comodidad y resultados naturales."
+  },
+  {
+    "name": "Dra. Valentina Rojas",
+    "specialty": "Odontologia estetica",
+    "registration": "Registro sanitario N. 11976",
+    "experience": "8 anos de experiencia",
+    "education": "Cirujano dentista, formacion en estetica dental y blanqueamiento.",
+    "bio": "Se enfoca en sonrisas armonicas, conservadoras y coherentes con cada rostro."
+  },
+  {
+    "name": "Dra. Camila Fuentes",
+    "specialty": "Odontopediatra",
+    "registration": "Registro sanitario N. 14219",
+    "experience": "9 anos de experiencia",
+    "education": "Cirujano dentista, especializacion en odontopediatria.",
+    "bio": "Atiende ninos y familias con una mirada preventiva, paciente y educativa."
+  },
+  {
+    "name": "Dr. Mateo Silva",
+    "specialty": "Endodoncista",
+    "registration": "Registro sanitario N. 13144",
+    "experience": "11 anos de experiencia",
+    "education": "Cirujano dentista, especializacion en endodoncia.",
+    "bio": "Realiza tratamientos de conducto con planificacion cuidadosa y manejo del dolor."
+  },
+  {
+    "name": "Dra. Paula Contreras",
+    "specialty": "Periodoncista",
+    "registration": "Registro sanitario N. 15027",
+    "experience": "7 anos de experiencia",
+    "education": "Cirujano dentista, diplomado en periodoncia clinica.",
+    "bio": "Ayuda a recuperar la salud de las encias y prevenir la perdida de soporte dental."
+  }
+]

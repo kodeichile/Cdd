@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "ortodoncia",
+    "title": "Ortodoncia",
+    "category": "Ortodoncia",
+    "description": "Brackets tradicionales, esteticos e invisibles",
+    "image": "/service-ortodoncia.png",
+    "longDescription": "La ortodoncia ayuda a alinear tus dientes, mejorar la mordida y lograr una sonrisa mas armonica. Evaluamos tu caso con criterio clinico y te explicamos cada alternativa antes de iniciar.",
+    "price": "Desde $45.000",
+    "featured": true,
+    "includes": ["Evaluacion inicial", "Plan de tratamiento personalizado", "Controles periodicos", "Indicaciones de cuidado"],
+    "faq": [
+      ["Cuanto dura el tratamiento?", "Depende del diagnostico. En general puede durar entre 12 y 24 meses."],
+      ["Es doloroso?", "Puede haber molestias leves al inicio o despues de controles, pero suelen ser manejables."],
+      ["Como se define el presupuesto?", "Depende de la evaluacion clinica y del plan de tratamiento indicado por el profesional."]
+    ]
+  },
+  {
+    "slug": "implantes-dentales",
+    "title": "Implantes dentales",
+    "category": "Implantes",
+    "description": "Recupera piezas perdidas con resultados naturales",
+    "image": "/service-implantes-dentales.png",
+    "longDescription": "Los implantes dentales permiten reemplazar piezas perdidas con una solucion estable, funcional y estetica. Revisamos tu salud oral y planificamos cada etapa con imagenologia y controles.",
+    "price": "Desde $350.000",
+    "featured": true,
+    "includes": ["Evaluacion implantologica", "Planificacion clinica", "Instalacion del implante", "Controles de cicatrizacion"],
+    "faq": [
+      ["Cuantas sesiones necesito?", "El numero de sesiones depende del caso y de la etapa de cicatrizacion."],
+      ["Es doloroso?", "Se realiza con anestesia local y controles para reducir molestias."],
+      ["El precio final puede cambiar?", "Si. El valor final depende del diagnostico y los examenes."]
+    ]
+  },
+  {
+    "slug": "blanqueamiento-dental",
+    "title": "Blanqueamiento dental",
+    "category": "Estetica",
+    "description": "Sonrisa mas blanca en una sola sesion",
+    "image": "/service-blanqueamiento-dental.png",
+    "longDescription": "El blanqueamiento dental mejora el tono de tus dientes de forma controlada y segura. Antes de realizarlo, verificamos que tus encias y piezas dentales esten en condiciones adecuadas.",
+    "price": "Desde $60.000",
+    "featured": true,
+    "includes": ["Evaluacion previa", "Limpieza si corresponde", "Aplicacion profesional", "Indicaciones posteriores"],
+    "faq": [
+      ["Cuanto dura el resultado?", "Depende de tus habitos, higiene y controles posteriores."],
+      ["Genera sensibilidad?", "Puede haber sensibilidad temporal, que suele disminuir en pocos dias."],
+      ["Cuantas sesiones necesito?", "Muchos casos mejoran en una sesion; otros requieren refuerzo."]
+    ]
+  },
+  {
+    "slug": "radiografia-panoramica",
+    "title": "Radiografia panoramica",
+    "category": "Diagnostico",
+    "description": "Imagen dental completa para evaluar tu tratamiento",
+    "image": "/service-radiografia-panoramica.png",
+    "longDescription": "La radiografia panoramica permite observar dientes, raices, hueso y estructuras principales en una sola imagen. Es una herramienta clave para planificar tratamientos con mayor claridad.",
+    "price": "Consulta valor",
+    "featured": true,
+    "includes": ["Toma de imagen panoramica", "Revision inicial", "Orientacion diagnostica", "Derivacion segun tratamiento"],
+    "faq": [
+      ["Para que sirve?", "Ayuda a evaluar piezas dentales, muelas del juicio, infecciones, perdida osea y planificacion de tratamientos."],
+      ["Necesito pedir hora?", "Si, recomendamos agendar para coordinar la toma y la revision correspondiente."]
+    ]
+  },
+  {
+    "slug": "odontologia-general",
+    "title": "Odontologia general",
+    "category": "Prevencion",
+    "description": "Chequeos, limpiezas y tratamientos preventivos",
+    "longDescription": "La odontologia general es la base de una boca sana. Realizamos controles, limpiezas y tratamientos preventivos para detectar problemas a tiempo.",
+    "price": "Desde $25.000",
+    "featured": true,
+    "includes": ["Chequeo dental", "Diagnostico inicial", "Limpieza profesional", "Plan preventivo"],
+    "faq": [
+      ["Cada cuanto debo hacerme un control?", "Recomendamos controles cada 6 meses, o antes si tienes molestias."],
+      ["Incluye limpieza?", "Depende del diagnostico. Se indica durante la evaluacion."],
+      ["Puedo agendar para mi familia?", "Si, recibimos pacientes adultos y ninos."]
+    ]
+  },
+  {
+    "slug": "endodoncia",
+    "title": "Endodoncia",
+    "category": "Urgencias",
+    "description": "Tratamiento de conducto sin dolor",
+    "image": "/service-endodoncia.png",
+    "longDescription": "La endodoncia trata infecciones o inflamaciones internas del diente para conservar la pieza cuando es posible. Usamos anestesia y tecnicas actuales para una atencion mas comoda.",
+    "price": "Desde $80.000",
+    "featured": true,
+    "includes": ["Diagnostico radiografico", "Anestesia local", "Tratamiento de conducto", "Indicaciones de restauracion"],
+    "faq": [
+      ["Cuando necesito una endodoncia?", "Cuando hay dolor persistente, infeccion o compromiso del nervio dental."],
+      ["Es doloroso?", "Se realiza con anestesia local para reducir molestias."],
+      ["Cuanto tarda?", "Depende de la pieza dental y la complejidad del caso."]
+    ]
+  },
+  {
+    "slug": "odontopediatria",
+    "title": "Odontopediatria",
+    "category": "Ninos",
+    "description": "Atencion dental especializada para ninos",
+    "image": "/service-odontopediatria.png",
+    "longDescription": "La odontopediatria cuida la salud oral infantil con un enfoque tranquilo, preventivo y cercano. Buscamos que cada visita sea una experiencia positiva.",
+    "price": "Desde $30.000",
+    "featured": true,
+    "includes": ["Evaluacion infantil", "Educacion de higiene", "Tratamientos preventivos", "Acompanamiento familiar"],
+    "faq": [
+      ["Desde que edad deben asistir?", "Idealmente desde la aparicion de los primeros dientes o antes del primer ano."],
+      ["Atienden ninos con miedo?", "Si, usamos un enfoque gradual y respetuoso."],
+      ["Realizan tratamientos preventivos?", "Si, segun edad y diagnostico."]
+    ]
+  },
+  {
+    "slug": "periodoncia",
+    "title": "Periodoncia",
+    "category": "Prevencion",
+    "description": "Cuidado de encias y soporte dental",
+    "image": "/service-periodoncia.png",
+    "longDescription": "Tratamos inflamacion, sangrado y enfermedades de las encias para proteger la base de tus dientes y evitar complicaciones futuras.",
+    "price": "Desde $55.000",
+    "featured": false,
+    "includes": ["Evaluacion periodontal", "Limpieza profunda", "Control de placa", "Seguimiento"],
+    "faq": [["Por que sangran mis encias?", "Puede ser por inflamacion o enfermedad periodontal; conviene evaluarlo."]]
+  },
+  {
+    "slug": "protesis-dental",
+    "title": "Protesis dental",
+    "category": "Rehabilitacion",
+    "description": "Protesis fija y removible",
+    "image": "/service-protesis-dental.png",
+    "longDescription": "Recuperamos funcion y estetica con soluciones protesicas adaptadas a tu boca, presupuesto y expectativas.",
+    "price": "Desde $120.000",
+    "featured": false,
+    "includes": ["Evaluacion", "Toma de impresiones", "Prueba de ajuste", "Entrega y control"],
+    "faq": [["Es fija o removible?", "Depende del caso; revisamos ambas alternativas si aplican."]]
+  },
+  {
+    "slug": "cirugia-oral",
+    "title": "Cirugia oral",
+    "category": "Urgencias",
+    "description": "Extracciones y muelas del juicio",
+    "image": "/service-cirugia-oral.png",
+    "longDescription": "Realizamos procedimientos quirurgicos orales con planificacion, anestesia y controles posteriores para cuidar tu recuperacion.",
+    "price": "Desde $70.000",
+    "featured": false,
+    "includes": ["Evaluacion", "Plan quirurgico", "Procedimiento", "Control postoperatorio"],
+    "faq": [["Necesito radiografia?", "En muchos casos si, para planificar con seguridad."]]
+  },
+  {
+    "slug": "estetica-dental",
+    "title": "Estetica dental",
+    "category": "Estetica",
+    "description": "Carillas, resinas y armonizacion de sonrisa",
+    "image": "/service-estetica-dental.png",
+    "longDescription": "Mejoramos forma, color y proporcion de la sonrisa con tratamientos conservadores y criterios esteticos naturales.",
+    "price": "Desde $90.000",
+    "featured": false,
+    "includes": ["Evaluacion estetica", "Diseno de sonrisa", "Tratamiento indicado", "Control final"],
+    "faq": [["Se ve natural?", "Ese es el objetivo: resultados armonicos y proporcionales."]]
+  },
+  {
+    "slug": "rehabilitacion-oral",
+    "title": "Rehabilitacion oral integral",
+    "category": "Rehabilitacion",
+    "description": "Plan completo para recuperar funcion y estetica",
+    "image": "/service-rehabilitacion-oral.png",
+    "longDescription": "Integramos distintas especialidades para restaurar tu salud oral cuando existen varias necesidades al mismo tiempo.",
+    "price": "Desde $150.000",
+    "featured": false,
+    "includes": ["Diagnostico integral", "Plan por etapas", "Coordinacion de especialidades", "Seguimiento"],
+    "faq": [["Como se define el plan?", "Con evaluacion clinica, examenes y prioridades del paciente."]]
+  },
+  {
+    "slug": "urgencias-dentales",
+    "title": "Urgencias dentales",
+    "category": "Urgencias",
+    "description": "Atencion por dolor, fracturas o infecciones",
+    "image": "/service-urgencias-dentales.png",
+    "longDescription": "Priorizamos casos con dolor intenso, infecciones, fracturas o molestias agudas para orientar el tratamiento oportuno.",
+    "price": "Desde $35.000",
+    "featured": false,
+    "includes": ["Evaluacion de urgencia", "Manejo del dolor", "Diagnostico inicial", "Derivacion o tratamiento"],
+    "faq": [["Puedo consultar por WhatsApp?", "Si, escribenos y te orientamos para agendar."]]
+  }
+]
